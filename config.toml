@@ -1,0 +1,14 @@
+baseURL = 'https://dertev.de/'
+languageCode = 'de-de'
+title = 'Tim'
+theme = "m10c"
+
+[params]
+description = "Hey! 👋 I'm Tim and I like to code in Clojure(Script)."
+avatar = "https://github.com/DerTev.png"
+favicon = "https://github.com/DerTev.png"
+
+[[params.social]]
+  icon = "github"
+  name = "My Github"
+  url = "https://github.com/DerTev"
