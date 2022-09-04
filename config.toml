@@ -10,5 +10,10 @@ favicon = "https://github.com/DerTev.png"
 
 [[params.social]]
   icon = "github"
-  name = "My Github"
+  name = "My GitHub"
   url = "https://github.com/DerTev"
+
+[[params.social]]
+  icon = "message-square"
+  name = "My Matrix"
+  url = "https://matrix.to/#/@tim:dertev.de"
