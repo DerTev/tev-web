@@ -17,3 +17,9 @@ favicon = "https://github.com/DerTev.png"
   icon = "message-square"
   name = "My Matrix"
   url = "https://matrix.to/#/@tim:dertev.de"
+
+[[menu.main]]
+  identifier = "showcase"
+  name = "Things I've made"
+  url = "/showcase/"
+  
